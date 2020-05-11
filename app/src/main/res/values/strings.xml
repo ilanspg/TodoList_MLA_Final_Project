@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">מל"א מטלות</string>
+    <string name="main_activity_name">כל המטלות</string>
+    <string name="add_task_activity_name">הוסף מטלה חדשה</string>
+
+    <string name="priority_1">1</string>
+    <string name="priority_2">2</string>
+    <string name="priority_3">3</string>
+
+    <string name="edit_task_description">...תיאור</string>
+    <string name="priority_string">עדיפות</string>
+
+    <string name="high_priority"> גבוה</string>
+    <string name="med_priority"> בינוני</string>
+    <string name="low_priority"> נמוך</string>
+
+    <string name="add_button">הוסף</string>
+    <string name="update_button">עדכן</string>
+    <string name="title_activity_login">מלא מטלות</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">דואר אלקטרוני</string>
+    <string name="prompt_password">סיסמא</string>
+    <string name="action_sign_in">התחבר</string>
+    <string name="action_sign_in_short">התחבר</string>
+    <string name="error_invalid_email">כתובת אימייל לא חוקית</string>
+    <string name="error_invalid_password">סיסמא קצרה מדי</string>
+    <string name="error_incorrect_password">סיסמא שגויה</string>
+    <string name="error_field_required">שדה זה הינו חובה</string>
+    <string name="permission_rationale">"גישה לאנשי הקשר נחוצה למען השלמה אוטומטית"
+    </string>
+
+</resources>
